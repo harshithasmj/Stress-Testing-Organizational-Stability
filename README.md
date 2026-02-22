@@ -4,7 +4,7 @@ Executive Summary
 
 This project develops a structured stress-testing model to evaluate how workforce attrition, leadership turnover, and revenue pressure impact organizational stability.
                                                                     
-                                                                    The goal is to make human capital risk measurable, comparable, and actionable.
+                The goal is to make human capital risk measurable, comparable, and actionable.
 
 Why This Matters
 
