@@ -7,7 +7,7 @@ This project develops a structured stress-testing model to evaluate how workforc
 
 WHY THIS MATTERS
 
-Workfroce metrics are often monitored operationally,, but not often translated into financial materiability. This model answers key questions such as 
+Workfroce metrics are often monitored operationally, but not often translated into financial materiability. This model answers key questions such as 
 - How resilient is the orgnaization under moderate vs severe stress?
 - At what point should leadership intervene?
 
